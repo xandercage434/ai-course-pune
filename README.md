@@ -15,3 +15,5 @@ Start with an introductory course in AI that will give you an overview of the fi
 The demand for [Artificial Intelligence professionals](https://www.springboard.com/blog/5-careers-in-artificial-intelligence/) will always continue to grow. Not just that, but certification will also help you in increasing your earning potential.
 You’re appearing for an interview for an artificial intelligence engineer profile. Out of all the candidates who have appeared for the interview, 10% of them are certified AI engineers. What happens next? Since this 10 % are certified, they’d be given more preference than the rest only because they are certified.
 Getting certified helps you in standing out from the crowd. Hence, certification is important.
+
+git tag <AI>
