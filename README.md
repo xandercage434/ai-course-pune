@@ -16,4 +16,4 @@ The demand for [Artificial Intelligence professionals](https://www.springboard.c
 You’re appearing for an interview for an artificial intelligence engineer profile. Out of all the candidates who have appeared for the interview, 10% of them are certified AI engineers. What happens next? Since this 10 % are certified, they’d be given more preference than the rest only because they are certified.
 Getting certified helps you in standing out from the crowd. Hence, certification is important.
 
-$ git tag -a <Artificial Intelligence>
+$ git tag -a <AI>
